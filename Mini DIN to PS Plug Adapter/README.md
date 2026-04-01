@@ -36,3 +36,7 @@ First, push the PlayStation plug through from the inside of the inner shell. The
 Then, close the outer shell onto the assembly. Make sure there is no gap between the shell.
 
 Lastly, thread the M2 screws from the outer shell into the inner shell, then tighten it down with the nuts on the other side.
+
+## Misc
+
+This controller used the outer shielding of the Mini DIN cable as the GROUND for the rumble motors. If your cable did not connec that, there will be no rumble effects.
