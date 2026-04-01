@@ -9,7 +9,8 @@ This base is very easy to print. No supported is needed.
 I've created two versions:
 
 - Base with logo.stl - for multi-color printers 
-- Base without logo.stl - for single color printers (requires DQ Logo.stl printed separately in a different color)
+- Base without logo.stl - for single color printers
+  - (requires DQ Logo.stl printed separately in a different color, attach with super glue)
 
 ## Pads
 
