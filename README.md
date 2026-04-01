@@ -1,4 +1,4 @@
-# HORI-DQ-PS2-Controller-Resource
+# DIY Accessories for HORI Dragon Quest PlayStation Controller
 
 <img src="https://github.com/user-attachments/assets/a6b9aa72-3bfb-40ac-aa21-dbfb46f483cd" width=800>
 
