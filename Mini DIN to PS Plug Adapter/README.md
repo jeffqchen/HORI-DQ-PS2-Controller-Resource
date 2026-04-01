@@ -14,4 +14,4 @@ This adapter follows the asthetics of the official controller plug, and does not
 - 8 pin Mini DIN Female Recepticle, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/Female/8%20Pin/info.md)
 - PlayStation Controller Plug, Male Pins, Right Angle - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/PlayStation%20Controller%20Port/Male%20Plug/info.md)
 - 3D Printed Shell: [STL Files](./Shell)
- 
+- 8 pin Mini DIN Cable, Male, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Cable/Mini%20DIN/8%20Pin/Male/Straight/info.md)
