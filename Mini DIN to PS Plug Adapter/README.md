@@ -11,7 +11,7 @@ This adapter follows the asthetics of the official controller plug, and does not
 ## Parts
 
 - PCB: [Gerber File](./PCB/gerber/DQ%20PS2%20Controller%20Adapter.zip)
-- Mini DIN 8 pin Female Connector
+- 8 pin Mini DIN Female Recepticle, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/Female/8%20Pin/info.md)
 - PS Controller Connector, Male, Right Angle
 - 3D Printed Shel: [STL Files](./Shell)
  
