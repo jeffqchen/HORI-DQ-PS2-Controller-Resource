@@ -14,6 +14,6 @@ I've created two versions:
 
 ## Pads
 
-<img src="https://github.com/user-attachments/assets/d880123f-3776-4551-b6f7-7170a7144825" width=400>
+<img src="https://github.com/user-attachments/assets/447ef010-e8f0-4def-9fe9-fe3af2a32b00" width=400>
 
 Aside from the pads you can add to the bottom, I recommend adding pads inside the cavity like the photo above, to avoid any potential of involuntary movement or scratching the controller, plus providing better grip.
