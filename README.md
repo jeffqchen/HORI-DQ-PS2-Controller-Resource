@@ -19,3 +19,15 @@ This controller has a non-standard Mini DIN 8 pin connector. To connect to the P
 This adapter follows the asthetics of the official controller plug, and does not intefere with the memory card.
 
 <img src="https://github.com/user-attachments/assets/6f6a02c5-e47d-45b4-a7b3-8114aa7a72f6" width=400> <img src="https://github.com/user-attachments/assets/942c313c-af84-40a0-b7e1-3df9c1d5482f" width=400>
+
+--------
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
